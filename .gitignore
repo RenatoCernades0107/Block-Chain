@@ -1,0 +1,8 @@
+.idea
+cmake-build-debug
+.clang-format
+.vs
+.vscode
+out
+CMakeSettings.json
+CMakeLists.txt.user
